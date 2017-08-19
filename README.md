@@ -1,4 +1,4 @@
-# SIMPLE RAILS 5 REST API
+# SIMPLE RAILS 5 REST API WITH VUEJS
 
 Example of a basic REST API to perform CRUD functions. Uses MySQL by default. Please add your own database and credentials
 
